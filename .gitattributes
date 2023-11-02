@@ -1,0 +1,2 @@
+/home/shihab/Training-Data.txt filter=lfs diff=lfs merge=lfs -text
+/home/shihab/trainingTruth.txt filter=lfs diff=lfs merge=lfs -text
